@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 937101e900084b46be25d4818517f4ea, type: 3}
+  m_Name: SandFootsteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 2333eff1afebec14583f14b4134e5de0, type: 3}
+  - {fileID: 8300000, guid: d52aa50f1470ced4b9ae3c688c0ed647, type: 3}
+  - {fileID: 8300000, guid: 14521ebe0ba818c4bb0c41c2adb7b2bc, type: 3}
+  - {fileID: 8300000, guid: 2d2d4b78cb59eab4485731dcd0ad7afc, type: 3}
+  - {fileID: 8300000, guid: d1135c3523f26ac41b49fed8b566bc1a, type: 3}
+  - {fileID: 8300000, guid: f5f8dfb2934ed7740a8f4b4fab887b82, type: 3}
